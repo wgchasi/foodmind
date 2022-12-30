@@ -46,3 +46,18 @@ footer {
 .sb:hover {
     opacity: 0.7;
 }
+
+.card {
+    border: dashed red;
+}
+
+.card-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+}
+
+.img-thumbnail {
+    width: 320px;
+    height: 350px;
+}
