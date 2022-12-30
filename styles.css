@@ -1,0 +1,48 @@
+*, *:before, *:after {
+    box-sizing: border-box;
+  }
+
+header {
+    display: flex;
+}
+
+footer {
+    text-align: center;
+}
+
+.centered-title {
+    text-align: center;
+}
+
+.header-logo {
+    width: 160px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.navbar {
+    
+}
+
+.banner {
+    display: flex;
+    justify-content: space-between;
+}
+
+.banner-img {
+    width: 500px;
+}
+
+.contact-grid {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+}
+
+.sb {
+    /*Define size of social buttons*/
+
+}
+
+.sb:hover {
+    opacity: 0.7;
+}
