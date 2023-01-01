@@ -5,11 +5,11 @@ RESET: Make all elements border-box
 }
 -----
 H1, H2 font: Noto sans, strong, large
-Link: https://fonts.googleapis.com/css?family=rubik
+Link: https://fonts.googleapis.com/css?family=Noto+Sans
 Font colours: black, white
 
 Text font: Nunito
-Link: https://fonts.googleapis.com/css?family=nunito
+Link: https://fonts.googleapis.com/css?family=Nunito
 Font colours: black, white
 -----
 
